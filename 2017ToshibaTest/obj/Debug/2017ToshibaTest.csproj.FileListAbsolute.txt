@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\bin\Debug\2017ToshibaTest.exe.config
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\bin\Debug\2017ToshibaTest.exe
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\bin\Debug\2017ToshibaTest.pdb
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\bin\Debug\TeliCamDNet4_0Api64.dll
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\App.g.cs
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest_MarkupCompile.cache
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest_MarkupCompile.lref
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.g.resources
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\_2017ToshibaTest.Properties.Resources.resources
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.csproj.CopyComplete
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.exe
+C:\Users\User\Desktop\2017ToshibaTest\2017ToshibaTest\obj\Debug\2017ToshibaTest.pdb
